@@ -1,2 +1,4 @@
 # test
-这是一个测试仓库也是第一个仓库。
+<?php
+echo "hello world!"
+echo "my name is chaoren,what is your name"
